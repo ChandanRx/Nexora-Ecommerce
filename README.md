@@ -1,12 +1,28 @@
-# React + Vite
+# 🛍️ Nexora - E-commerce Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nexora is a sleek and modern e-commerce web application built using **React.js** and **Tailwind CSS**. It provides users with a seamless shopping experience with features like product listings, detailed views, search, filters, and cart management.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔎 Browse and search for products
+- 🛒 Add and remove items from the cart
+- 📦 View detailed product information
+- 🎯 Responsive and mobile-friendly design
+- 🎨 Built with modern UI using Tailwind CSS
+- ⚡ Fast and optimized with Vite
 
-## Expanding the ESLint configuration
+## 🧑‍💻 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React.js, Tailwind CSS
+- **Bundler:** Vite
+- *(Optional backend integration possible using Firebase, Express, or any REST API)*
+
+## 📸 Screenshots
+
+| Home Page | Product Details | Cart Page |
+|----------|------------------|------------|
+| ![screencapture-localhost-5173-2025-07-10-15_23_07](https://github.com/user-attachments/assets/c9c67d7e-2aab-4c4e-874c-be7d4b6bfa66)
+ | ![screencapture-localhost-5173-product-2025-07-10-15_24_13](https://github.com/user-attachments/assets/44320929-5b8f-4ee9-b6fd-a236fcca6316)
+ | ![screencapture-localhost-5173-cart-2025-07-10-15_24_56](https://github.com/user-attachments/assets/5bee26e8-60db-4cbe-86d6-24d23474f84b)
+ |
+
