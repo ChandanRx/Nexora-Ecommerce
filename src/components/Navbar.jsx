@@ -19,10 +19,10 @@ const Navbar = ({ location, getLocation, openDropDown, setOpenDropDown }) => {
           <Link to="/">
             <h1 className="text-4xl md:text-4xl font-extrabold tracking-widest flex items-center gap-2">
               <span className="bg-gradient-to-r from-purple-500 to-lime-400 text-white px-3 py-1 rounded-full shadow-lg shadow-lime-400 animate-pulse text-2xl">
-                N
+                Rx
               </span>
               <span className="bg-gradient-to-r from-lime-400 to-purple-500 bg-clip-text text-transparent drop-shadow-[0_1.5px_1.5px_rgba(183,255,83,0.8)]">
-                EXORA
+                Aura
               </span>
             </h1>
           </Link>
