@@ -15,8 +15,6 @@ Nexora is a sleek and modern e-commerce web application built using **React.js**
 
 - **Frontend:** React.js, Tailwind CSS
 - **Bundler:** Vite
-- *(Optional backend integration possible using Firebase, Express, or any REST API)*
-
 ## 📸 Screenshots
 
 | Home Page | Product Details | Cart Page |
