@@ -1,6 +1,6 @@
-# 🛍️ RxAura E-commerce Web App
+# 🛍️ Nexora E-commerce Web App
 
-RxAura is a sleek and modern e-commerce web application built using **React.js** and **Tailwind CSS**. It provides users with a seamless shopping experience with features like product listings, detailed views, search, filters, and cart management.
+Nexora is a sleek and modern e-commerce web application built using **React.js** and **Tailwind CSS**. It provides users with a seamless shopping experience with features like product listings, detailed views, search, filters, and cart management.
 
 ## ✨ Features
 
