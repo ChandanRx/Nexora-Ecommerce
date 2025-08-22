@@ -19,8 +19,7 @@ Nexora is a sleek and modern e-commerce web application built using **React.js**
 
 | Home Page | Product Details | Cart Page |
 |----------|------------------|------------|
-| ![screencapture-localhost-5173-2025-07-10-15_23_07](https://github.com/user-attachments/assets/c9c67d7e-2aab-4c4e-874c-be7d4b6bfa66)
- | ![screencapture-localhost-5173-product-2025-07-10-15_24_13](https://github.com/user-attachments/assets/44320929-5b8f-4ee9-b6fd-a236fcca6316)
+| ![screencapture-localhost-5173-2025-07-10-15_23_07](https://github.com/user-attachments/assets/c9c67d7e-2aab-4c4e-874c-be7d4b6bfa66) | ![screencapture-localhost-5173-product-2025-07-10-15_24_13](https://github.com/user-attachments/assets/44320929-5b8f-4ee9-b6fd-a236fcca6316)
  | ![screencapture-localhost-5173-cart-2025-07-10-15_24_56](https://github.com/user-attachments/assets/5bee26e8-60db-4cbe-86d6-24d23474f84b)
  |
 
